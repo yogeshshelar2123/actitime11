@@ -3,3 +3,7 @@ driver.findelementby.id
 driver.findelementby.name
 driver.findelementby.class
 driver.findelementby.tagname
+driver.findelementby.xpath
+driver.findelementby.linkedtext
+driver.manage.window.maximize();
+
